@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Klowrr/Fetch_Fake_Api/static/css/main.e7ba2550.css",
-    "main.js": "/Klowrr/Fetch_Fake_Api/static/js/main.c4b200bc.js",
-    "static/js/787.b31db486.chunk.js": "/Klowrr/Fetch_Fake_Api/static/js/787.b31db486.chunk.js",
-    "index.html": "/Klowrr/Fetch_Fake_Api/index.html",
-    "main.e7ba2550.css.map": "/Klowrr/Fetch_Fake_Api/static/css/main.e7ba2550.css.map",
-    "main.c4b200bc.js.map": "/Klowrr/Fetch_Fake_Api/static/js/main.c4b200bc.js.map",
-    "787.b31db486.chunk.js.map": "/Klowrr/Fetch_Fake_Api/static/js/787.b31db486.chunk.js.map"
+    "main.css": "/Fetch_Fake_Api/static/css/main.e7ba2550.css",
+    "main.js": "/Fetch_Fake_Api/static/js/main.89d25dda.js",
+    "static/js/787.b31db486.chunk.js": "/Fetch_Fake_Api/static/js/787.b31db486.chunk.js",
+    "index.html": "/Fetch_Fake_Api/index.html",
+    "main.e7ba2550.css.map": "/Fetch_Fake_Api/static/css/main.e7ba2550.css.map",
+    "main.89d25dda.js.map": "/Fetch_Fake_Api/static/js/main.89d25dda.js.map",
+    "787.b31db486.chunk.js.map": "/Fetch_Fake_Api/static/js/787.b31db486.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7ba2550.css",
-    "static/js/main.c4b200bc.js"
+    "static/js/main.89d25dda.js"
   ]
 }
